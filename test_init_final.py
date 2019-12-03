@@ -1783,11 +1783,11 @@ while True:
 				embed = discord.Embed(
 						title='----- 리스폰 보스 -----',
 						description= ' ')
-				embed.add_field(name='1시간', value='기감', inline=False)
-				embed.add_field(name='2시간', value='서드,북드,카파,질풍,광풍,이프,자웜,개미', inline=False)
-				embed.add_field(name='3시간', value='중드,동드,거드,마요,산적,자크,스피,가스트,대흑장로', inline=False)
-				embed.add_field(name='4시간', value='아르,도펠', inline=False)
-				embed.add_field(name='5시간', value='에자', inline=False)
+				embed.add_field(name='40분', value='이블린', inline=False)
+				embed.add_field(name='5시간50분', value='피코', inline=False)
+				embed.add_field(name='6시간', value='라파커스,트로이카', inline=False)
+				embed.add_field(name='7시간30분', value='벨프스,이프리나', inline=False)
+				embed.add_field(name='8시간', value='레프리카1,레프리카2,레프리카3,레프리카4,베네딕트,베르키,라빌린', inline=False)
 				embed.add_field(name='6시간', value='감시자 데몬', inline=False)
 				embed.add_field(name='6시간 53분', value='피닉스', inline=False)
 				embed.add_field(name='7시간', value='데스나이트', inline=False)
