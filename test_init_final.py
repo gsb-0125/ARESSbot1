@@ -1783,9 +1783,9 @@ while True:
 				embed = discord.Embed(
 						title='----- 리스폰 보스 -----',
 						description= ' ')
-				embed.add_field(name='40분', value='이블린', inline=False)
-				embed.add_field(name='5시간50분', value='피코', inline=False)
-				embed.add_field(name='6시간', value='라파커스,트로이카', inline=False)
+				embed.add_field(name='40분', value='이블린성채,이블린평야', inline=False)
+				embed.add_field(name='5시간50분', value='피코,라파커스', inline=False)
+				embed.add_field(name='6시간', value='트로이카', inline=False)
 				embed.add_field(name='7시간30분', value='벨프스,이프리나', inline=False)
 				embed.add_field(name='8시간', value='레프리카1,레프리카2,레프리카3,레프리카4,베네딕트,베르키,라빌린', inline=False)
 				await client.get_channel(channel).send(embed=embed, tts=False)
